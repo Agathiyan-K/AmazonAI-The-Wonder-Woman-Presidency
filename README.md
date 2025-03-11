@@ -9,33 +9,13 @@ AmazonAI is an AI-powered governance and leadership assistant, designed to embod
 
 ## 🔥 Technology Stack Used  
 
-### 1. Large Language Model (LLM) – Llama 3.2: Latest  
+### Large Language Model (LLM) – Llama 3.2: Latest  
 - Political strategy analysis  
 - Ethical governance suggestions  
 - Global diplomacy insights  
 - AI-driven decision-making  
 - Crisis response and national security planning  
-
-### 2. Web OpenAI via Docker  
-- Ensures a smooth, responsive experience for AmazonAI users  
-- Uses **Ollama** for efficient LLM deployment  
-
-## 🚀 Installation & Deployment  
-
-### Step 1: Install Ollama  
-```bash
-curl -fsSL https://ollama.ai/install.sh | sh
-ollama pull llama3.2:latest
-```
-
-### Step 2: Deploy Web OpenAI on Docker
-```bash
-docker run -d -p 3000:8080 --add-host=host.docker.internal:host-gateway \
--v open-webui:/app/backend/data --name open-webui --restart always \
-ghcr.io/open-webui/open-webui:main
-```
-
-
+ 
 ## 🎯 How AmazonAI Assists  
 
 ### 🌎 Global Leadership & Policy  
