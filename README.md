@@ -54,6 +54,13 @@ AmazonAI is an AI-powered governance and leadership assistant, designed to embod
 **AmazonAI Response:**  
 *"AI-driven cybersecurity systems should incorporate real-time threat detection, predictive analytics, and automated countermeasures. A government-backed AI security initiative could collaborate with global agencies to create an advanced threat intelligence network, ensuring a proactive defense against cyber warfare."*  
 
+## Sample Video
+
+
+https://github.com/user-attachments/assets/08e0f8ca-72a2-49fc-829e-d54ece44f728
+
+
+
 ## 🎖️ Key Learnings from the Project  
 
 ### 1️⃣ AI Can Enhance Political Decision-Making  
