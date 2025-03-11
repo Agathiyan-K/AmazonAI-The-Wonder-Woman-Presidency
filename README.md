@@ -1,6 +1,6 @@
 # AmazonAI-The-Wonder-Woman-Presidency
 
-🔗 [Open WebUI Link](https://openwebui.com/m/agathiyan47k/amazonai--the-wonder-woman-presidency)  
+🔗 [AmazonAI_OpenWebUI_Link](https://openwebui.com/m/agathiyan47k/amazonai--the-wonder-woman-presidency)  
 
 ## 🏛️ Objective  
 AmazonAI is an AI-powered governance and leadership assistant, designed to embody the wisdom, strength, and strategic vision of **Wonder Woman as the President of the United States**. It offers ethical decision-making, futuristic policymaking, and global peace initiatives powered by AI.  
